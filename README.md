@@ -20,7 +20,16 @@ Autofix is a professional and responsive website template designed for a car ren
 ---
 
 ## Folder Structure
-autofix-website/ │ ├── index.html # Main HTML file ├── /assets │ ├── /css │ │ └── style.css # Custom styles for the website │ ├── /images # All images used in the website │ ├── script.py # Python file (if applicable) ├── README.md # Documentation └── .gitignore # Files and directories to ignore in Git
+autofix-website/ │ 
+├── index.html # Main HTML file
+├── /assets │
+├── /css │ 
+│ └── style.css 
+# Custom styles for the website │ 
+├── /images # All images used in the website │ 
+├── script.py # Python file (if applicable) 
+├── README.md # Documentation 
+└── .gitignore # Files and directories to ignore in Git
 
 ---
 
